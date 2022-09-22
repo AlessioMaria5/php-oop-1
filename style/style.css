@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.movieCard {
+
+    width: 300px;
+    padding: 10px;
+    
+}
+
+.img-wrapper {
+
+    width: 100%;
+}
+
+.img-wrapper img {
+
+    width: 100%;
+}
